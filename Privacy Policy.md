@@ -1,5 +1,5 @@
 WNReader Privacy Policy
-Effective Date: [Insert Current Date]
+Effective Date: March 13th, 2024
 This privacy policy ("Policy") outlines how WNReader handles personal information collected when you use our app.
 
 Information The App Collect
@@ -15,7 +15,7 @@ How The App Use Your Information
 •	App Improvement: Anonymous usage data helps us make WNReader better for all users.
 
 Information Sharing
-•	All information & privacy will not leave your device, all of it is stored locally and we don't collect anything
+•	All information & privacy data will not leave your device, all of it is stored locally and we don't collect anything
 •	We do not sell or rent your personal information to third parties.
 
 Security
@@ -31,7 +31,7 @@ Changes to this Policy
 We may update this policy periodically. We'll notify you of significant changes with a notice in the app and/or via email associated with your WNReader usage (if provided).
 
 Contact Us
-For any questions or concerns regarding this privacy policy, please contact us at: [Insert Your Support Email]
+For any questions or concerns regarding this privacy policy, please contact us at moongoblindev@gmail.com
 Important Considerations
 •	Data Retention: Craft a section detailing how long you retain different types of personal information.
 •	Children's Privacy: If the app is likely to be used by minors, address the relevant child protection regulations in detail.
