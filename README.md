@@ -11,7 +11,7 @@
 
 <h2>Getting Started</h2>
 
-1. Download the latest WNReader release from [Google Play](https://play.google.com/store/apps/details?id=com.moongoblin.WNReader)
+1. Download the latest WNReader release from [Google Play](https://play.google.com/store/apps/details?id=com.moongoblin.WNReader) or [Github Preview Release](https://github.com/MoonGoblinDev/WNReader/releases)
 2. Import your EPUB books for a seamless reading experience.
 3. If you use Kavita, connect your server to access your library.
 
